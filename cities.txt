@@ -1,0 +1,8 @@
+Index  City_Name
+1   Kigari
+2   Huye
+3   Muhanga
+4   Musanze
+5   Nyagatare
+6   Rubavu
+7   Rusizi

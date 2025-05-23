@@ -1,0 +1,60 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+road_management_system.exe
+
+# IDE specific files
+*.code-workspace
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Project specific
+# Uncomment if you want to ignore data files
+# cities.txt
+# roads.txt
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Backup files
+*~
+*.bak
+*.swp 
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
